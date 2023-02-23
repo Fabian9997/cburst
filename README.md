@@ -14,7 +14,7 @@ _______________
 4. ```mv cburst /usr/local/bin ```
 
 
-### Now you can simply type ```cburst``` in your terminal to clean your cache!
+#### Now you can simply type ```cburst``` in your terminal to clean your cache!
 
 > Note: this will only work on Mac OS.
 
