@@ -13,4 +13,8 @@ _______________
 3. ```chmod +x cburst``` - This will make the file executable
 4. ```mv cburst /usr/local/bin ```
 
+
+### Now you can simply type ```cburst``` in your terminal to clean your cache!
+
 > Note: this will only work on Mac OS.
+
