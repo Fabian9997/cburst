@@ -2,7 +2,7 @@
 
 
 
-##### cburst is a simple and ultra lightweight shll scrip that cleans the MacOS Cache.
+##### cburst is a simple and ultra lightweight shell scrip that cleans the MacOS Cache.
 
 _______________
 
